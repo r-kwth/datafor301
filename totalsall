@@ -1,0 +1,85 @@
+code,state,category,tornado totals, season, enso
+IA,Iowa,state,23.3,spring,elnino
+SD,South Dakota,state,3,spring,elnino
+NE,Nebraska,state,21.3,spring,elnino
+KS,Kansas,state,54.3,spring,elnino
+MO,Missouri,state,24,spring,elnino
+TX,Texas,state,93.7,spring,elnino
+OK,Oklahoma,state,50.3,spring,elnino
+IA,Iowa,state,17.3,summer,elnino
+SD,South Dakota,state,20.7,summer,elnino
+NE,Nebraska,state,19.3,summer,elnino
+KS,Kansas,state,29.3,summer,elnino
+MO,Missouri,state,11,summer,elnino
+TX,Texas,state,24.3,summer,elnino
+OK,Oklahoma,state,9,summer,elnino
+IA,Iowa,state,17,fall,elnino
+SD,South Dakota,state,2,fall,elnino
+NE,Nebraska,state,4,fall,elnino
+KS,Kansas,state,9,fall,elnino
+MO,Missouri,state,1.3,fall,elnino
+TX,Texas,state,19.3,fall,elnino
+OK,Oklahoma,state,4.3,fall,elnino
+IA,Iowa,state,1.3,winter,elnino
+SD,South Dakota,state,0,winter,elnino
+NE,Nebraska,state,0,winter,elnino
+KS,Kansas,state,0.3,winter,elnino
+MO,Missouri,state,2.3,winter,elnino
+TX,Texas,state,15.7,winter,elnino
+OK,Oklahoma,state,9,winter,elnino
+IA,Iowa,state,16.4,spring,lanina
+SD,South Dakota,state,11.4,spring,lanina
+NE,Nebraska,state,15.2,spring,lanina
+KS,Kansas,state,50.2,spring,lanina
+MO,Missouri,state,21.8,spring,lanina
+TX,Texas,state,80.8,spring,lanina
+OK,Oklahoma,state,55.8,spring,lanina
+IA,Iowa,state,23,summer,lanina
+SD,South Dakota,state,15,summer,lanina
+NE,Nebraska,state,19.6,summer,lanina
+KS,Kansas,state,12.4,summer,lanina
+MO,Missouri,state,9.4,summer,lanina
+TX,Texas,state,18.8,summer,lanina
+OK,Oklahoma,state,5.4,summer,lanina
+IA,State,state,1.8,fall,lanina
+SD,South Dakota,state,1.8,fall,lanina
+NE,Nebraska,state,0.4,fall,lanina
+KS,Kansas,state,6,fall,lanina
+MO,Missouri,state,8.6,fall,lanina
+TX,Texas,state,11.8,fall,lanina
+OK,Oklahoma,state,11.6,fall,lanina
+IA,Iowa,state,12.6,winter,lanina
+SD,South Dakota,state,0,winter,lanina
+NE,Nebraska,state,5.6,winter,lanina
+KS,Kansas,state,2.6,winter,lanina
+MO,Missouri,state,10.4,winter,lanina
+TX,Texas,state,7.6,winter,lanina
+OK,Oklahoma,state,1.6,winter,lanina
+IA,Iowa,state,20.7,spring,neutral
+SD,South Dakota,state,6.2,spring,neutral
+NE,Nebraska,state,19.9,spring,neutral
+KS,Kansas,state,57.4,spring,neutral
+MO,Missouri,state,28.4,spring,neutral
+TX,Texas,state,73.6,spring,neutral
+OK,Oklahoma,state,58.9,spring,neutral
+IA,Iowa,state,31.3,summer,neutral
+SD,South Dakota,state,13.6,summer,neutral
+NE,Nebraska,state,20.3,summer,neutral
+KS,Kansas,state,17.2,summer,neutral
+MO,Missouri,state,6.1,summer,neutral
+TX,Texas,state,12.6,summer,neutral
+OK,Oklahoma,state,4.2,summer,neutral
+IA,Iowa,state,6.6,fall,neutral
+SD,South Dakota,state,1.8,fall,neutral
+NE,Nebraska,state,2.2,fall,neutral
+KS,Kansas,state,4.8,fall,neutral
+MO,Missoouri,state,6.6,fall,neutral
+TX,Texas,state,8.2,fall,neutral
+OK,Oklahoma,state,5,fall,neutral
+IA,Iowa,state,0.2,winter,neutral
+SD,South Dakota,state,0,winter,neutral
+NE,Nebraska,state,0.6,winter,neutral
+KS,Kansas,state,2.1,winter,neutral
+MO,Missouri,state,9.2,winter,neutral
+TX,Texas,state,15.4,winter,neutral
+OK,Oklahoma,state,1.9,winter,neutral
