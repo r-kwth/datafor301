@@ -1,0 +1,29 @@
+code,state,category,tornado totals, season
+IA,Iowa,state,23.3,spring
+IA,Iowa,state,17.3,summer
+IA,Iowa,state,17,fall
+IA,Iowa,state,1.3,winter
+SD,South Dakota,state,3,spring
+SD,South Dakota,state,20.7,summer
+SD,South Dakota,state,2,fall
+SD,South Dakota,state,0,winter
+NE,Nebraska,state,21.3,spring
+NE,Nebraska,state,19.3,summer
+NE,Nebraska,state,4,fall
+NE,Nebraska,state,0,winter
+KS,Kansas,state,54.3,spring
+KS,Kansas,state,29.3,summer
+KS,Kansas,state,9,fall
+KS,Kansas,state,0.3,winter
+MO,Missouri,state,24,spring
+MO,Missouri,state,11,summer
+MO,Missouri,state,1.3,fall
+MO,Missouri,state,2.3,winter
+TX,Texas,state,93.7,spring
+TX,Texas,state,24.3,summer
+TX,Texas,state,19.3,fall
+TX,Texas,state,15.7,winter
+OK,Oklahoma,state,50.3,spring
+OK,Oklahoma,state,9,summer
+OK,Oklahoma,state,4.3,fall
+OK,Oklahoma,state,9,winter
